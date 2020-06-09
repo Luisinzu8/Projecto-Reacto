@@ -16,7 +16,7 @@ export default class Sample extends Component {
     return (
       <div className="Sample">
         <header>
-          <h1>react-calendar sample page</h1>
+          <h1>react-calendar</h1>
         </header>
         <div className="Sample__container">
           <main className="Sample__container__content">
