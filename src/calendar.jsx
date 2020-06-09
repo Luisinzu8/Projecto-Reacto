@@ -22,7 +22,6 @@ export default class Sample extends Component {
           <main className="Sample__container__content">
             <Calendar
               onChange={this.onChange}
-              showWeekNumbers
               value={value}
             />
           </main>
